@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TestGrability</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="text_intro">Bienvenido</string>
+    <string name="first_name_erro">Ingresa tu nombre</string>
+    <string name="document_erro">Ingresa tu número de cedula</string>
+    <string name="photo_erro">No hay foto</string>
+
+    <string name="end_session">Cerrar sesión</string>
+    <string name="resume_app">Resumen </string>
+    <string name="request">Pedidos</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Usuario</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Inicia Sesión</string>
+    <string name="action_sign_in_short">Inicia Sesión</string>
+    <string name="error_invalid_email">Email no valido</string>
+    <string name="error_invalid_password">Contraseña muy corta</string>
+    <string name="error_incorrect_password">Contraseña incorrecta</string>
+    <string name="error_field_required">Este campo es obligatorio</string>
+
+
+
+</resources>

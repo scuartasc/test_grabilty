@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\mac backup\siat\TestGrability\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="F:\mac backup\siat\TestGrability\app\build\intermediates\pre-dexed\debug\classes-fc55404b0869a7422be83c19176eb80b160e453c.jar" />
+    </item>
+    <item
+        jar="F:\mac backup\siat\TestGrability\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="F:\mac backup\siat\TestGrability\app\build\intermediates\pre-dexed\debug\classes-b19ec524924c4e7cb6ecf4b724b1c9a4b88abac8.jar" />
+    </item>
+    <item
+        jar="F:\mac backup\siat\TestGrability\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="F:\mac backup\siat\TestGrability\app\build\intermediates\pre-dexed\debug\classes-aedc18f83d226faa356fcdae6adb9894c76e77a7.jar" />
+    </item>
+    <item
+        jar="F:\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="F:\mac backup\siat\TestGrability\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-978a04377b659756670912eacd95c9c42c5ef577.jar" />
+    </item>
+    <item
+        jar="F:\mac backup\siat\TestGrability\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="F:\mac backup\siat\TestGrability\app\build\intermediates\pre-dexed\debug\classes-96956cfbf0689df04d57f78bd3fad853a17bca60.jar" />
+    </item>
+    <item
+        jar="F:\mac backup\siat\TestGrability\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="F:\mac backup\siat\TestGrability\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-58a683c4c5874aa4e4f5baadecdd0087ea664c7a.jar" />
+    </item>
+
+</items>
